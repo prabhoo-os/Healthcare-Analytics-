@@ -1,0 +1,13 @@
+Department_ID,Department_Name,Building,Floor,Bed_Capacity,Consultation_Fee_Base
+DEP01,Cardiology,Block A,1,45,2200
+DEP02,Orthopedics,Block B,1,40,1800
+DEP03,Neurology,Block A,2,30,2000
+DEP04,Oncology,Block C,1,35,3500
+DEP05,Pediatrics,Block D,1,40,900
+DEP06,Obstetrics & Gynecology,Block D,2,45,1300
+DEP07,General Medicine,Block E,0,60,800
+DEP08,General Surgery,Block B,2,40,1700
+DEP09,Emergency Medicine,Block F,0,35,1200
+DEP10,Gastroenterology,Block E,1,25,1400
+DEP11,Pulmonology,Block C,2,25,1300
+DEP12,Nephrology,Block C,3,20,1600
