@@ -1,0 +1,121 @@
+Doctor_ID,Doctor_Name,Gender,Department_ID,Specialty,Qualification,Experience_Years,Consultation_Fee,Joining_Date
+DOC001,Dr. Imran Kulkarni,Male,DEP01,General Cardiology,"MBBS, MD",12,2400,2016-02-01
+DOC002,Dr. Anil Nair,Male,DEP01,Interventional Cardiology,"MBBS, MS",23,3000,2022-01-01
+DOC003,Dr. Thomas Kulkarni,Male,DEP01,Interventional Cardiology,"MBBS, MS, MCh",24,3100,2021-01-06
+DOC004,Dr. Mary Verma,Female,DEP02,Joint Replacement,"MBBS, MD",11,1950,2016-07-14
+DOC005,Dr. Suresh Reddy,Male,DEP02,Sports Medicine,"MBBS, MS",12,2000,2021-04-10
+DOC006,Dr. Ritu Sharma,Female,DEP02,Joint Replacement,"MBBS, MS, MCh",19,2300,2012-07-02
+DOC007,Dr. David Khan,Male,DEP03,Neurosurgery,"MBBS, MS, MCh",16,2400,2021-03-03
+DOC008,Dr. Manoj Rao,Male,DEP03,Neurosurgery,"MBBS, MS, MCh",8,2000,2016-09-15
+DOC009,Dr. Rajesh Desai,Male,DEP03,Movement Disorders,"MBBS, MS",13,2250,2018-12-20
+DOC010,Dr. Rahul Shah,Male,DEP04,Medical Oncology,"MBBS, DNB",6,3350,2013-12-09
+DOC011,Dr. Meera Desai,Female,DEP04,Medical Oncology,"MBBS, DNB",13,3950,2014-12-25
+DOC012,Dr. Suresh Singh,Male,DEP04,Surgical Oncology,"MBBS, MD",10,3700,2015-01-07
+DOC013,Dr. Nikhil Jain,Male,DEP05,Neonatology,"MBBS, DNB",8,900,2016-12-23
+DOC014,Dr. Shweta Rao,Female,DEP05,Neonatology,"MBBS, MS, MCh",7,900,2018-11-21
+DOC015,Dr. Pranav Deshmukh,Male,DEP05,General Pediatrics,"MBBS, MS, MCh",12,1000,2013-01-29
+DOC016,Dr. Imran Jain,Male,DEP06,Fertility,"MBBS, DNB",10,1350,2020-02-20
+DOC017,Dr. Meera Gokhale,Female,DEP06,Obstetrics,"MBBS, MD",15,1550,2021-12-07
+DOC018,Dr. Aarti Nair,Female,DEP06,Obstetrics,"MBBS, DNB",16,1550,2014-10-14
+DOC019,Dr. Swati Das,Female,DEP07,Diabetology,"MBBS, MD",11,850,2018-06-18
+DOC020,Dr. Rekha Rao,Female,DEP07,Internal Medicine,"MBBS, DNB",15,950,2018-11-10
+DOC021,Dr. Nikhil Kapoor,Male,DEP07,Family Medicine,"MBBS, MS",25,1150,2022-03-09
+DOC022,Dr. Anil Gokhale,Male,DEP08,Trauma Surgery,"MBBS, MD",24,2400,2013-11-20
+DOC023,Dr. Imran Iyer,Male,DEP08,Trauma Surgery,"MBBS, MS, MCh",18,2100,2019-06-09
+DOC024,Dr. Manoj Iyer,Male,DEP08,General Surgery,"MBBS, MD, DM",16,2050,2012-05-10
+DOC025,Dr. Anil Agarwal,Male,DEP09,Emergency Medicine,"MBBS, MS, MCh",18,1500,2012-05-20
+DOC026,Dr. Aarti Shah,Female,DEP09,Emergency Medicine,"MBBS, MD",5,1100,2021-08-06
+DOC027,Dr. Anita More,Female,DEP09,Critical Care,"MBBS, DNB",20,1550,2022-01-01
+DOC028,Dr. Anil Deshmukh,Male,DEP10,Gastroenterology,"MBBS, MS",17,1700,2014-11-21
+DOC029,Dr. David Shah,Male,DEP10,Gastroenterology,"MBBS, MS",21,1850,2017-05-24
+DOC030,Dr. Vivek Singh,Male,DEP10,Hepatology,"MBBS, MD, DM",9,1450,2015-09-19
+DOC031,Dr. Anil Joshi,Male,DEP11,Critical Care,"MBBS, MS",15,1550,2013-10-13
+DOC032,Dr. Mahesh Chopra,Male,DEP11,Critical Care,"MBBS, DNB",31,2050,2021-10-08
+DOC033,Dr. Mary Verma,Female,DEP11,Sleep Medicine,"MBBS, MS, MCh",11,1400,2018-03-23
+DOC034,Dr. Nikhil Nair,Male,DEP12,Transplant Nephrology,"MBBS, MS",22,2150,2017-11-03
+DOC035,Dr. Lakshmi Deshmukh,Female,DEP12,Nephrology,"MBBS, MD",2,1350,2019-04-16
+DOC036,Dr. Neha Khan,Female,DEP12,Transplant Nephrology,"MBBS, MS",29,2450,2017-02-24
+DOC037,Dr. Rahul Jain,Male,DEP02,Spine Surgery,"MBBS, MD",21,2400,2021-09-07
+DOC038,Dr. Pranav Jain,Male,DEP06,Fertility,"MBBS, MD, DM",28,1950,2015-11-01
+DOC039,Dr. Rekha Chopra,Female,DEP03,Movement Disorders,"MBBS, MD",26,2900,2012-06-30
+DOC040,Dr. Thomas Kulkarni,Male,DEP07,Diabetology,"MBBS, MS, MCh",16,950,2021-10-11
+DOC041,Dr. Sandeep Khan,Male,DEP06,Obstetrics,"MBBS, DNB",12,1450,2012-12-21
+DOC042,Dr. Deepak Verma,Male,DEP09,Critical Care,"MBBS, MS",13,1350,2012-11-28
+DOC043,Dr. Rajesh Pawar,Male,DEP07,Family Medicine,"MBBS, DNB",12,900,2020-10-20
+DOC044,Dr. Sandeep Iyer,Male,DEP04,Medical Oncology,"MBBS, MS, MCh",21,4650,2021-01-08
+DOC045,Dr. Imran Mehta,Male,DEP09,Trauma Care,"MBBS, MS, MCh",14,1400,2014-12-03
+DOC046,Dr. Sanjay Joshi,Male,DEP09,Emergency Medicine,"MBBS, DNB",13,1350,2013-05-30
+DOC047,Dr. Mahesh Desai,Male,DEP05,Neonatology,"MBBS, MS, MCh",16,1100,2019-11-08
+DOC048,Dr. Ritu Shah,Female,DEP04,Medical Oncology,"MBBS, MD, DM",15,4100,2022-05-21
+DOC049,Dr. Vikram Agarwal,Male,DEP07,Diabetology,"MBBS, DNB",20,1050,2014-03-21
+DOC050,Dr. Swati Patil,Female,DEP02,Sports Medicine,"MBBS, MS",15,2100,2013-02-09
+DOC051,Dr. Sunita Deshmukh,Female,DEP02,Joint Replacement,"MBBS, MD, DM",13,2000,2013-12-10
+DOC052,Dr. Tanvi Chopra,Female,DEP01,Interventional Cardiology,"MBBS, MS",2,1850,2017-02-03
+DOC053,Dr. Aarti Pillai,Female,DEP09,Emergency Medicine,"MBBS, MS, MCh",16,1450,2022-04-04
+DOC054,Dr. Anil Bhat,Male,DEP07,Diabetology,"MBBS, MS, MCh",26,1150,2021-05-27
+DOC055,Dr. Sanjay Agarwal,Male,DEP07,Family Medicine,"MBBS, MS, MCh",11,850,2018-03-16
+DOC056,Dr. David Reddy,Male,DEP09,Critical Care,"MBBS, DNB",23,1650,2018-10-18
+DOC057,Dr. Faisal Khan,Male,DEP06,Gynecology,"MBBS, DNB",22,1750,2017-11-30
+DOC058,Dr. Farah Rao,Female,DEP07,Internal Medicine,"MBBS, MD",19,1000,2017-02-06
+DOC059,Dr. Swati Deshmukh,Female,DEP02,Joint Replacement,"MBBS, DNB",9,1850,2020-12-31
+DOC060,Dr. Mary Chopra,Female,DEP02,Sports Medicine,"MBBS, MS",12,2000,2014-12-07
+DOC061,Dr. Manoj Sharma,Male,DEP07,Family Medicine,"MBBS, MD",26,1150,2016-08-10
+DOC062,Dr. Imran Patil,Male,DEP06,Obstetrics,"MBBS, MS",5,1200,2022-01-01
+DOC063,Dr. Amit Das,Male,DEP07,Internal Medicine,"MBBS, DNB",18,1000,2012-02-02
+DOC064,Dr. Harish Nair,Male,DEP08,Trauma Surgery,"MBBS, DNB",5,1550,2014-04-12
+DOC065,Dr. Lakshmi Reddy,Female,DEP07,Internal Medicine,"MBBS, MS, MCh",9,800,2021-07-07
+DOC066,Dr. Thomas Agarwal,Male,DEP07,Family Medicine,"MBBS, MS, MCh",16,950,2016-10-12
+DOC067,Dr. Lakshmi Nair,Female,DEP07,Diabetology,"MBBS, MD, DM",25,1150,2020-05-11
+DOC068,Dr. Sanjay Kulkarni,Male,DEP04,Radiation Oncology,"MBBS, MD",2,3000,2016-05-27
+DOC069,Dr. Nisha Kapoor,Female,DEP01,Cardiac Electrophysiology,"MBBS, MD, DM",19,2800,2012-11-26
+DOC070,Dr. Sunil Das,Male,DEP06,Fertility,"MBBS, MD",15,1550,2014-07-03
+DOC071,Dr. Imran Khan,Male,DEP03,Stroke & Epilepsy,"MBBS, MD",7,1950,2017-02-19
+DOC072,Dr. Pranav Pawar,Male,DEP05,Neonatology,"MBBS, DNB",20,1150,2019-07-03
+DOC073,Dr. Manoj Reddy,Male,DEP09,Trauma Care,"MBBS, MS",24,1700,2021-01-03
+DOC074,Dr. Smita Joshi,Female,DEP03,Stroke & Epilepsy,"MBBS, MD, DM",19,2550,2016-11-28
+DOC075,Dr. Rekha Rao,Female,DEP01,Interventional Cardiology,"MBBS, MS",19,2800,2013-09-21
+DOC076,Dr. Smita More,Female,DEP04,Medical Oncology,"MBBS, MS, MCh",12,3850,2012-07-31
+DOC077,Dr. Amit Khan,Male,DEP04,Medical Oncology,"MBBS, MS, MCh",10,3700,2017-01-01
+DOC078,Dr. Sunita Agarwal,Female,DEP07,Internal Medicine,"MBBS, MS",5,750,2022-10-15
+DOC079,Dr. Rahul Pillai,Male,DEP07,Internal Medicine,"MBBS, MD, DM",17,1000,2017-04-26
+DOC080,Dr. Pranav Banerjee,Male,DEP09,Emergency Medicine,"MBBS, MD",2,1000,2012-12-08
+DOC081,Dr. Pranav Sharma,Male,DEP07,Diabetology,"MBBS, MD, DM",17,1000,2022-06-14
+DOC082,Dr. Sunil Mehta,Male,DEP05,Pediatric Pulmonology,"MBBS, MD, DM",15,1050,2021-10-06
+DOC083,Dr. Thomas More,Male,DEP09,Trauma Care,"MBBS, MS, MCh",12,1300,2013-08-20
+DOC084,Dr. Madhuri Pillai,Female,DEP02,Joint Replacement,"MBBS, MS",17,2200,2014-06-24
+DOC085,Dr. Deepak Reddy,Male,DEP01,General Cardiology,"MBBS, MD",19,2800,2014-01-03
+DOC086,Dr. Thomas Chopra,Male,DEP01,General Cardiology,"MBBS, MD",2,1850,2016-05-02
+DOC087,Dr. Anjali Patil,Female,DEP08,Trauma Surgery,"MBBS, MD",12,1850,2021-08-12
+DOC088,Dr. Lakshmi Bhat,Female,DEP06,Obstetrics,"MBBS, MS, MCh",13,1450,2014-07-12
+DOC089,Dr. Anita Bhat,Female,DEP02,Joint Replacement,"MBBS, MD",8,1800,2018-01-16
+DOC090,Dr. Suresh Jain,Male,DEP06,Fertility,"MBBS, MD",11,1400,2021-03-26
+DOC091,Dr. Swati Singh,Female,DEP02,Sports Medicine,"MBBS, MD",4,1600,2017-05-21
+DOC092,Dr. Manoj Menon,Male,DEP07,Internal Medicine,"MBBS, MS, MCh",13,900,2022-04-30
+DOC093,Dr. Naveen Deshmukh,Male,DEP06,Fertility,"MBBS, MD, DM",9,1350,2014-07-20
+DOC094,Dr. Ashok Menon,Male,DEP05,General Pediatrics,"MBBS, MS, MCh",16,1100,2020-12-04
+DOC095,Dr. Anil Reddy,Male,DEP04,Medical Oncology,"MBBS, DNB",16,4200,2020-03-22
+DOC096,Dr. Anil Singh,Male,DEP07,Family Medicine,"MBBS, MS",21,1050,2012-08-21
+DOC097,Dr. Jyoti Mehta,Female,DEP05,General Pediatrics,"MBBS, MD, DM",16,1100,2017-11-26
+DOC098,Dr. Sandeep Agarwal,Male,DEP01,Interventional Cardiology,"MBBS, MD",28,3300,2017-05-24
+DOC099,Dr. Sunil Jain,Male,DEP02,Joint Replacement,"MBBS, MS, MCh",21,2400,2016-03-28
+DOC100,Dr. Sunita Chopra,Female,DEP12,Transplant Nephrology,"MBBS, MS",16,1900,2018-04-09
+DOC101,Dr. Anil Joshi,Male,DEP10,Hepatology,"MBBS, DNB",2,1200,2016-05-19
+DOC102,Dr. Manoj Kapoor,Male,DEP07,Internal Medicine,"MBBS, DNB",27,1200,2019-06-23
+DOC103,Dr. Sunil Bose,Male,DEP03,Movement Disorders,"MBBS, MS, MCh",16,2400,2016-07-05
+DOC104,Dr. Divya Jain,Female,DEP12,Nephrology,"MBBS, MS, MCh",18,2000,2015-04-17
+DOC105,Dr. Faisal Bose,Male,DEP08,General Surgery,"MBBS, MS, MCh",6,1600,2017-03-01
+DOC106,Dr. Faisal Kulkarni,Male,DEP08,General Surgery,"MBBS, MS",24,2400,2016-02-12
+DOC107,Dr. Kavita Banerjee,Female,DEP06,Fertility,"MBBS, MD",13,1450,2014-12-13
+DOC108,Dr. Mahesh Joshi,Male,DEP04,Surgical Oncology,"MBBS, DNB",8,3500,2017-04-07
+DOC109,Dr. Ritu Reddy,Female,DEP01,Interventional Cardiology,"MBBS, DNB",16,2650,2022-01-28
+DOC110,Dr. Faisal Khan,Male,DEP10,Gastroenterology,"MBBS, DNB",20,1800,2019-11-14
+DOC111,Dr. Vivek Gupta,Male,DEP06,Obstetrics,"MBBS, MD",2,1100,2015-03-31
+DOC112,Dr. Imran Verma,Male,DEP02,Joint Replacement,"MBBS, DNB",8,1800,2013-08-11
+DOC113,Dr. Rajesh Shah,Male,DEP04,Radiation Oncology,"MBBS, MS",10,3700,2022-02-01
+DOC114,Dr. Anil Iyer,Male,DEP07,Family Medicine,"MBBS, MD, DM",17,1000,2012-02-07
+DOC115,Dr. David Verma,Male,DEP02,Joint Replacement,"MBBS, MS, MCh",14,2050,2019-04-18
+DOC116,Dr. Vikram Deshmukh,Male,DEP09,Trauma Care,"MBBS, MS",18,1500,2022-10-21
+DOC117,Dr. Anita Bose,Female,DEP08,Trauma Surgery,"MBBS, DNB",25,2400,2012-07-04
+DOC118,Dr. Sana Joshi,Female,DEP08,Laparoscopic Surgery,"MBBS, MD, DM",12,1850,2016-11-16
+DOC119,Dr. Amit Mehta,Male,DEP06,Obstetrics,"MBBS, DNB",24,1800,2013-11-03
+DOC120,Dr. Nikhil Reddy,Male,DEP07,Family Medicine,"MBBS, MS",11,850,2014-09-17
